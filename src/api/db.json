@@ -1,0 +1,243 @@
+{
+  "users": [
+    {
+      "id": 3,
+      "name": "test",
+      "email": "test@test.com",
+      "password": "1234",
+      "userType": "admin"
+    },
+    {
+      "name": "tejaswini",
+      "email": "teju@gmail.com",
+      "password": "123",
+      "id": 8,
+      "userType": "admin"
+    },
+    {
+      "name": "teju",
+      "email": "acd@wa.com",
+      "password": "123",
+      "id": 9,
+      "userType": "user",
+      "cart": [
+        {
+          "id": "1662023711235",
+          "model": "a6+",
+          "ram": "6gb",
+          "rom": "64gb",
+          "price": 12000,
+          "count": 1,
+          "img": [
+            "https://sm.pcmag.com/pcmag_me/photo/default/nokia-53-emotional-hs-ds-png_vj4d.png",
+            "https://www.techtoyreviews.com/wp-content/uploads/2017/05/Budget-4G-Smartphone.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "teju",
+      "email": "acd@abc.com",
+      "password": "123",
+      "userType": "user",
+      "cart": [
+        {
+          "id": "1663581511270",
+          "model": "a9",
+          "ram": "18gb",
+          "rom": "150gb",
+          "price": 12000,
+          "count": 2,
+          "img": [
+            "https://www.businessinsider.in/photo/79527794/vivo-v20-pro-smartphone-with-64mp-camera-6-44-inch-display-launched-in-india.jpg?imgsize=84407",
+            "https://mensgear.net/wp-content/uploads/2019/07/lg-stylus-2.jpg"
+          ]
+        },
+        {
+          "id": "1663155128373",
+          "model": "a5",
+          "ram": "4gb",
+          "rom": "16gb",
+          "price": 12000,
+          "count": 2,
+          "img": [
+            "https://www.mallsmarket.com/sites/default/files/photos/news/mi-a3.jpg",
+            "https://i2.wp.com/witchdoctor.co.nz/wp-content/uploads/2018/02/image-8.png"
+          ]
+        },
+        {
+          "id": "1662023711235",
+          "model": "a6+",
+          "ram": "6gb",
+          "rom": "64gb",
+          "price": 10000,
+          "count": 3,
+          "img": [
+            "https://sm.pcmag.com/pcmag_me/photo/default/nokia-53-emotional-hs-ds-png_vj4d.png",
+            "https://www.techtoyreviews.com/wp-content/uploads/2017/05/Budget-4G-Smartphone.jpg"
+          ]
+        },
+        {
+          "id": "1663214611837",
+          "model": "a7",
+          "ram": "6gb",
+          "rom": "86gb",
+          "price": 12000,
+          "count": 2,
+          "img": [
+            "https://www.techtoyreviews.com/wp-content/uploads/2017/05/Budget-4G-Smartphone.jpg"
+          ]
+        },
+        {
+          "id": "1663562152172",
+          "model": "a8+",
+          "ram": "16gb",
+          "rom": "128gb",
+          "price": 12000,
+          "count": 3,
+          "img": [
+            "https://media.istockphoto.com/photos/modern-touchscreen-smartphone-picture-id960374758?k=6&m=960374758&s=170667a&w=0&h=_rqQRukddsoYgBaNQyvlgl7DtPgfwZrN2zr2jLG-TIo="
+          ]
+        },
+        {
+          "id": "1662023711345",
+          "model": "a6",
+          "ram": "4gb",
+          "rom": "16gb",
+          "price": 12000,
+          "count": 1,
+          "img": [
+            "https://images.unsplash.com/photo-1509721434272-b79147e0e708?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80",
+            "https://www.techtoyreviews.com/wp-content/uploads/2017/05/Budget-4G-Smartphone.jpg",
+            "https://www.mallsmarket.com/sites/default/files/photos/news/mi-a3.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "test",
+      "email": "test1@test1.com",
+      "password": "123",
+      "id": 12,
+      "userType": "admin"
+    },
+    {
+      "name": "test-5",
+      "email": "test5@test.com",
+      "password": "123",
+      "userType": "admin",
+      "id": 13
+    }
+  ],
+  "mobiles": [
+    {
+      "id": "1662023711235",
+      "model": "a6+",
+      "ram": "6gb",
+      "rom": "64gb",
+      "price": 10000,
+      "count": 1,
+      "img": [
+        "https://www.mallsmarket.com/sites/default/files/photos/news/mi-a3.jpg",
+        "https://sm.pcmag.com/pcmag_me/photo/default/nokia-53-emotional-hs-ds-png_vj4d.png",
+        "https://www.techtoyreviews.com/wp-content/uploads/2017/05/Budget-4G-Smartphone.jpg"
+      ]
+    },
+    {
+      "id": "1662023711345",
+      "model": "a6",
+      "ram": "4gb",
+      "rom": "16gb",
+      "price": 12000,
+      "count": 1,
+      "img": [
+        "https://images.unsplash.com/photo-1509721434272-b79147e0e708?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80",
+        "https://www.techtoyreviews.com/wp-content/uploads/2017/05/Budget-4G-Smartphone.jpg",
+        "https://www.mallsmarket.com/sites/default/files/photos/news/mi-a3.jpg"
+      ]
+    },
+    {
+      "id": "1663155128373",
+      "model": "a5",
+      "ram": "4gb",
+      "rom": "16gb",
+      "price": 12000,
+      "count": 1,
+      "img": [
+        "https://www.mallsmarket.com/sites/default/files/photos/news/mi-a3.jpg",
+        "https://i2.wp.com/witchdoctor.co.nz/wp-content/uploads/2018/02/image-8.png"
+      ]
+    },
+    {
+      "id": "1663214611837",
+      "model": "a7",
+      "ram": "6gb",
+      "rom": "86gb",
+      "price": 12000,
+      "count": 1,
+      "img": [
+        "https://i2.wp.com/witchdoctor.co.nz/wp-content/uploads/2018/02/image-8.png"
+      ]
+    },
+    {
+      "id": "1663215870005",
+      "model": "a7+",
+      "ram": "8gb",
+      "rom": "128gb",
+      "price": 12000,
+      "count": 1,
+      "img": [
+        "https://mensgear.net/wp-content/uploads/2019/07/lg-stylus-2.jpg",
+        "https://i2.wp.com/witchdoctor.co.nz/wp-content/uploads/2018/02/image-8.png"
+      ]
+    },
+    {
+      "id": "1663263372913",
+      "model": "a8",
+      "ram": "10gb",
+      "rom": "136gb",
+      "price": 12000,
+      "count": 1,
+      "img": [
+        "https://www.enca.com/sites/default/files/2020-02/000_1k21bc.jpg",
+        "https://mensgear.net/wp-content/uploads/2019/07/lg-stylus-2.jpg"
+      ]
+    },
+    {
+      "id": "1663562152172",
+      "model": "a8+",
+      "ram": "16gb",
+      "rom": "128gb",
+      "price": 12000,
+      "count": 1,
+      "img": [
+        "https://media.istockphoto.com/photos/modern-touchscreen-smartphone-picture-id960374758?k=6&m=960374758&s=170667a&w=0&h=_rqQRukddsoYgBaNQyvlgl7DtPgfwZrN2zr2jLG-TIo="
+      ]
+    },
+    {
+      "id": "1663581511270",
+      "model": "a9",
+      "ram": "18gb",
+      "rom": "150gb",
+      "price": 12000,
+      "count": 1,
+      "img": [
+        "https://www.businessinsider.in/photo/79527794/vivo-v20-pro-smartphone-with-64mp-camera-6-44-inch-display-launched-in-india.jpg?imgsize=84407",
+        "https://mensgear.net/wp-content/uploads/2019/07/lg-stylus-2.jpg"
+      ]
+    },
+    {
+      "id": "1663847694652",
+      "model": "abc",
+      "ram": "16gb",
+      "rom": "200gb",
+      "price": "42512",
+      "count": 1,
+      "img": [
+        "https://thegadgetflow.com/wp-content/uploads/2018/09/Motorola-One-smartphone-02.jpg",
+        "https://mensgear.net/wp-content/uploads/2019/07/lg-stylus-2.jpg"
+      ]
+    }
+  ]
+}
