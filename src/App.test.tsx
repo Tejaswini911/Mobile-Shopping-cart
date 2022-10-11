@@ -28,6 +28,11 @@ jest.mock('./components/Search')
 jest.mock('./components/PageNotFound')
 
 describe('testing the routes',()=>{
+  
+  beforeEach(() => {
+    jest.clearAllMocks();
+  });
+  
   test("testing default page",()=>{
     const mockedAuth = Auth  as jest.MockedFunction<typeof Auth>
     mockedAuth.mockImplementation(() =>{return (<div>HomePage Mock</div>)})
